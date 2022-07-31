@@ -80,8 +80,6 @@ namespace Pilot
         m_tri_frame_buffer.clear();
     }
 
-    void PilotEngine::initialize() {}
-    void PilotEngine::clear() {}
     void PilotEngine::run()
     {
         while (true)
